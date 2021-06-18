@@ -27,4 +27,6 @@ function draw() {
     xOffset += 0.1;
   }
   endShape();
+
+  yOffset += 0.1;
 }
